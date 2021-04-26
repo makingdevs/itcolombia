@@ -1,6 +1,6 @@
 println "hol inmundo"
 
-10.upto {
+10.times {
   println it
 }
 

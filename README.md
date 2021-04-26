@@ -1,16 +1,12 @@
 # Hello World
 
-## Agenda
-
 ## Welcome to the project
-
-### Here we are again!
 
 ## Tech Stack
 
-- Ruby
-- Rails
-- Tailwind
-- Elm
+- Clojure
+- Milligram
+- Ember
 - nginx
 - AWS
+- PostgreSQL

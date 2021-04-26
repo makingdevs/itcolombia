@@ -1,5 +1,8 @@
 println "hol inmundo"
 
-1..10.each {
+10.upto {
   println it
 }
+
+f = new File("README.txt")
+println t.text
